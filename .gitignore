@@ -1,0 +1,15 @@
+# Ignorar archivos de construcción y temporales
+build/
+devel/
+log/
+
+# Archivos de configuración específicos del usuario
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Archivos y carpetas de ROS generados automáticamente
+install/
+
